@@ -1,3 +1,4 @@
+![salary-calculator](https://user-images.githubusercontent.com/44240533/222983920-8275e9a8-dcc5-47bd-bbbe-e0e999266f82.svg)
 # Football Match Reports
 
 Welcome to Football Match Reports on Exercism's Java Track.
